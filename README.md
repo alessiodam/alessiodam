@@ -2,7 +2,8 @@
 
 -  I’m currently working on Project TINET  
 
-[![TINET Repo pin](https://github-readme-stats.vercel.app/api/pin/?username=tkbstudios&repo=tinet-calc&show_icons=true&title_color=2e80ae&text_color=ffffff&bg_color=000000&cache_seconds=30&locale=en)](https://github-readme-stats.vercel.app/api/pin/?username=tkbstudios&repo=tinet-calc)
+[![TINET Calc Repo pin](https://github-readme-stats.vercel.app/api/pin/?username=tkbstudios&repo=tinet-calc&show_icons=true&title_color=2e80ae&text_color=ffffff&bg_color=000000&cache_seconds=30&locale=en)](https://github-readme-stats.vercel.app/api/pin/?username=tkbstudios&repo=tinet-calc)  
+[![TINET Bridge Repo pin](https://github-readme-stats.vercel.app/api/pin/?username=tkbstudios&repo=tinet-bridge&show_icons=true&title_color=2e80ae&text_color=ffffff&bg_color=000000&cache_seconds=30&locale=en)](https://github-readme-stats.vercel.app/api/pin/?username=tkbstudios&repo=tinet-bridge)
 -  I’m currently learning C and eZ80 assembly  
 
 📫 Send me a DM on discord! @tkbstudios  
