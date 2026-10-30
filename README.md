@@ -20,8 +20,8 @@ Backend developer and BSc Engineering student at KU Leuven, Belgium. I mostly wr
 
 ## Stats
 
-<a href="https://github.com/alessiodam"><img height="170" src="https://github-readme-stats.vercel.app/api?username=alessiodam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats"></a>
-<a href="https://github.com/alessiodam"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessiodam&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=typescript,html,css,javascript" alt="Top languages"></a>
+<a href="https://github.com/alessiodam"><img height="170" src="https://github-readme-stats.shion.dev/api?username=alessiodam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats"></a>
+<a href="https://github.com/alessiodam"><img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=alessiodam&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=typescript,html,css,javascript" alt="Top languages"></a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessiodam&theme=github-dark-blue&hide_border=true" alt="Contribution streak">
 
